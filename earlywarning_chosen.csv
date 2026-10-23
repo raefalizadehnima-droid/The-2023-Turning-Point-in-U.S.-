@@ -1,0 +1,4 @@
+config,feature_set,alpha_augmented,alpha_baseline
+"primary: DOSE-SYS, cohort27",drug,0.1,0.0
+"sens: DOSE-SYS, all available jurisdictions",drug,1.0,0.01
+"sens: DOSE-dx ED all-drug rate, cohort27",ed_alldrug,1.0,0.1

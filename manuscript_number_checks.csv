@@ -1,0 +1,8 @@
+check,expected_string,found_in_manuscript
+all-drug deaths 2020,"37,747",True
+all-drug deaths 2021,"42,985",True
+all-drug deaths 2022,"42,961",True
+all-drug deaths 2023,"41,704",True
+all-drug deaths 2024,"31,059",True
+all-drug break 2,June 2023,True
+2023-24 change,-25.5%,True

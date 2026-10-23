@@ -1,0 +1,12 @@
+check,result,detail
+2020->2024 change in deaths (alldrug) equals published Trend Statistics value,pass,own=-17.72 published=-17.7
+2020->2024 change in deaths (opioids) equals published Trend Statistics value,pass,own=-27.41 published=-27.4
+2020->2024 change in deaths (imfs) equals published Trend Statistics value,pass,own=-24.43 published=-24.4
+Cohort monthly series sums to annual cohort totals,pass,
+Cohort has exactly 27 jurisdictions in every month,pass,
+Shares of 'alldrug' equal 100,pass,
+Figure 4 observed series equals cohort monthly total,pass,
+Early-warning evaluation uses only target months inside the declared test window,pass,
+Early-warning selection table contains validation deviances only (no test period column),pass,
+Boundary flags present for all selected breakpoints,pass,
+Bootstrap/seed settings recorded,pass,

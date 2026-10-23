@@ -1,0 +1,8 @@
+step,rows_before,rows_after,note
+SUDORS Annual Data: all rows,192,192,
+SUDORS: drop composite 'Overall' rows (not comparable across years),192,187,
+SUDORS: jurisdictions present in all five data years (cohort of 27),45,27,
+SUDORS: combination variables before/after removing mirror duplicates,139,81,opioids_stim_deaths==opioids_anystim_deaths; imfs_heroin_deaths==heroin_imfs_deaths; imfs_rxopioid_deaths==rxopioid_imfs_deaths; heroin_rxopioid_deaths==rxopioid_heroin_deaths; imfs_nitazenes_deaths==nitazenes_imfs_deaths; heroin_nitazenes_deaths==nitazenes_heroin_deaths ...
+DOSE-SYS Jurisdiction: keep monthly rows (drop rolling-12-month rows),9282,4641,
+DOSE-dx: keep monthly rows,5967,5508,
+DOSE-dx: separate 'US' composite rows from jurisdictions,5508,5340,

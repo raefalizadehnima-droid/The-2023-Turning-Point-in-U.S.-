@@ -1,0 +1,12 @@
+[16:38:08] Pipeline start; master seed=20261020; bootstrap B=2000
+[16:38:09] All three raw workbooks found and readable
+[16:38:15] Inventory, dictionary, 42 QC checks written (no failures)
+[16:38:16] Harmonised tables written to 03_Processed_Data
+[16:38:18] Screening: 67 eligible categories of 108
+[16:39:53] Fatal analyses done (trend models, screening, change points, sensitivity, jackknife)
+[16:40:32] Nonfatal analyses done
+[16:41:12] Early-warning evaluation done (primary + 2 sensitivity configurations)
+[16:41:12] Geographic robustness done
+[16:41:16] Figures 1-7 written (PNG + PDF + source-data CSV)
+[16:41:16] 11 automated numerical checks passed
+[16:41:16] Done in 188s

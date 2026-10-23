@@ -1,0 +1,16 @@
+Jurisdiction set,Jur.,Deaths 2023,Deaths 2024,"Change, %"
+Fixed cohort: all five years (primary),27,"41,704","31,059",−25.5
+Paired: present in both 2023 and 2024,40,"69,380","51,680",−25.5
+Paired excluding cohort27,13,"27,676","20,621",−25.5
+Published 'Overall' rows (membership changes: 42 vs 43 jurisdictions),,"75,118","53,336",−29.0
+Cohort27 excluding Northeast,19,"28,785","21,824",−24.2
+Cohort27 excluding Midwest,22,"34,670","25,980",−25.1
+Cohort27 excluding South,19,"28,349","21,585",−23.9
+Cohort27 excluding West,21,"33,308","23,788",−28.6
+All-drug breakpoint: baseline (min segment 6),,,,2023-04
+All-drug breakpoint: min segment 9,,,,2023-04
+All-drug breakpoint: min segment 12,,,,2023-04
+All-drug breakpoint: drop final 3 months,,,,2023-04
+All-drug breakpoint: drop final 6 months,,,,2023-03
+All-drug breakpoint: series starts 2021-01 (excludes 2020),,,,2023-07
+All-drug breakpoint: Poisson deviance profile (K=1),,,,2023-04

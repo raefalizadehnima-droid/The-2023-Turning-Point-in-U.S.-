@@ -1,0 +1,14 @@
+Category,Type,Jur.,"Share 2022, %","Share 2024, %",Deaths 2023 → 2024,"Change in deaths, %",Odds ratio per year (95% CI),BH q
+carfentanil,detected,26,0.02,0.82,106 → 251,+136.8,4.38 (3.04–6.29),<0.001
+mdma mda,detected,26,0.35,0.50,134 → 155,+15.7,1.21 (1.04–1.41),0.020
+nitazenes,detected,26,0.24,0.70,187 → 214,+14.4,1.68 (1.27–2.23),<0.001
+ketamine,detected,26,0.38,0.70,191 → 216,+13.1,1.38 (1.23–1.55),<0.001
+other illegal opioids,detected,26,0.26,0.70,192 → 214,+11.5,1.63 (1.23–2.15),0.001
+cocaine only,exclusive/summary,27,4.50,7.33,"2,059 → 2,276",+10.5,1.30 (1.24–1.36),<0.001
+bromazolam,detected,26,0.69,2.93,830 → 900,+8.4,1.94 (1.75–2.15),<0.001
+illegal benzodiazepines,detected,26,1.40,3.23,916 → 992,+8.3,1.53 (1.32–1.76),<0.001
+stim only,exclusive/summary,27,13.16,20.18,"5,789 → 6,269",+8.3,1.29 (1.24–1.35),<0.001
+stim noopioids,exclusive/summary,27,14.61,22.22,"6,454 → 6,901",+6.9,1.29 (1.24–1.35),<0.001
+meth only,exclusive/summary,27,7.87,11.58,"3,406 → 3,596",+5.6,1.24 (1.18–1.30),<0.001
+adulterants sedatives,detected,26,6.88,12.75,"3,769 → 3,915",+3.9,1.41 (1.20–1.65),<0.001
+xylazine,detected,26,6.88,12.61,"3,769 → 3,872",+2.7,1.40 (1.19–1.64),<0.001

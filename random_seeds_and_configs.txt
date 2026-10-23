@@ -1,0 +1,6 @@
+master seed: 20261020
+bootstrap replicates (state-cluster): 2000
+block bootstrap (change points): block=6 months, B=300, seed=20261020
+early-warning: horizons=[1, 2, 3], lags=[0, 3, 6], alphas=[0.0, 0.01, 0.1, 1.0], train<=2022-12, validation=2023, test=2024
+feature sets (DOSE-SYS): [('drug',), ('opioid',), ('stimulant',), ('drug', 'opioid'), ('drug', 'stimulant'), ('opioid', 'stimulant'), ('drug', 'opioid', 'stimulant')]
+minimum segment length: 6 months (sensitivity 9, 12)

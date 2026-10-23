@@ -1,0 +1,188 @@
+jurisdiction,abbr,year,alldrug_rate
+Alabama,AL,2023,30.4
+Alaska,AK,2020,23.8
+Alaska,AK,2021,38.3
+Alaska,AK,2022,35.2
+Alaska,AK,2023,48.1
+Alaska,AK,2024,45.7
+Arizona,AZ,2020,34.0
+Arizona,AZ,2021,38.3
+Arizona,AZ,2022,36.8
+Arizona,AZ,2023,40.6
+Arizona,AZ,2024,35.7
+Arkansas,AR,2021,22.9
+Arkansas,AR,2022,18.7
+Arkansas,AR,2023,16.2
+Arkansas,AR,2024,11.6
+Colorado,CO,2020,22.4
+Colorado,CO,2021,28.7
+Colorado,CO,2022,27.7
+Colorado,CO,2023,28.8
+Colorado,CO,2024,24.0
+Connecticut,CT,2020,39.4
+Connecticut,CT,2021,42.7
+Connecticut,CT,2022,40.3
+Connecticut,CT,2023,36.8
+Connecticut,CT,2024,26.7
+Delaware,DE,2020,47.4
+Delaware,DE,2021,53.4
+Delaware,DE,2022,55.2
+Delaware,DE,2023,53.8
+Delaware,DE,2024,33.6
+District of Columbia,DC,2020,79.4
+District of Columbia,DC,2021,87.1
+District of Columbia,DC,2022,94.5
+District of Columbia,DC,2023,100.0
+District of Columbia,DC,2024,68.6
+Georgia,GA,2020,17.1
+Georgia,GA,2021,22.3
+Georgia,GA,2022,23.9
+Georgia,GA,2023,22.9
+Georgia,GA,2024,17.4
+Hawaii,HI,2021,17.2
+Hawaii,HI,2022,17.5
+Hawaii,HI,2023,22.7
+Hawaii,HI,2024,24.4
+Illinois,IL,2022,28.5
+Illinois,IL,2023,26.9
+Illinois,IL,2024,18.6
+Indiana,IN,2023,32.6
+Indiana,IN,2024,24.5
+Iowa,IA,2020,11.5
+Iowa,IA,2021,13.2
+Iowa,IA,2022,12.8
+Iowa,IA,2023,11.9
+Iowa,IA,2024,11.9
+Kansas,KS,2020,15.5
+Kansas,KS,2021,24.1
+Kansas,KS,2022,26.2
+Kansas,KS,2023,21.9
+Kansas,KS,2024,19.8
+Kentucky,KY,2020,47.6
+Kentucky,KY,2021,52.9
+Kentucky,KY,2022,52.2
+Kentucky,KY,2023,47.6
+Kentucky,KY,2024,32.8
+Maine,ME,2020,37.1
+Maine,ME,2021,46.1
+Maine,ME,2022,51.6
+Maine,ME,2023,41.9
+Maine,ME,2024,33.0
+Maryland,MD,2020,44.8
+Maryland,MD,2021,44.3
+Maryland,MD,2022,40.8
+Maryland,MD,2023,39.9
+Maryland,MD,2024,27.8
+Massachusetts,MA,2020,34.0
+Massachusetts,MA,2021,36.4
+Massachusetts,MA,2022,37.7
+Massachusetts,MA,2023,34.3
+Massachusetts,MA,2024,23.1
+Michigan,MI,2020,29.4
+Michigan,MI,2021,30.3
+Michigan,MI,2023,28.0
+Michigan,MI,2024,18.3
+Minnesota,MN,2020,17.6
+Minnesota,MN,2021,22.5
+Minnesota,MN,2022,23.7
+Minnesota,MN,2023,22.7
+Minnesota,MN,2024,16.2
+Mississippi,MS,2020,17.6
+Mississippi,MS,2022,23.8
+Mississippi,MS,2023,21.9
+Mississippi,MS,2024,16.3
+Missouri,MO,2022,34.2
+Missouri,MO,2023,31.8
+Missouri,MO,2024,22.3
+Montana,MT,2020,12.0
+Montana,MT,2022,16.6
+Montana,MT,2023,15.2
+Montana,MT,2024,13.5
+Nebraska,NE,2020,8.7
+Nebraska,NE,2021,10.2
+Nebraska,NE,2022,9.5
+Nebraska,NE,2023,6.9
+Nebraska,NE,2024,6.2
+Nevada,NV,2020,29.5
+Nevada,NV,2021,29.3
+Nevada,NV,2023,41.4
+Nevada,NV,2024,41.5
+New Hampshire,NH,2020,28.3
+New Hampshire,NH,2021,30.8
+New Hampshire,NH,2022,33.2
+New Hampshire,NH,2023,30.8
+New Hampshire,NH,2024,19.5
+New Jersey,NJ,2020,32.6
+New Jersey,NJ,2021,33.6
+New Jersey,NJ,2022,33.7
+New Jersey,NJ,2023,30.1
+New Jersey,NJ,2024,20.9
+New Mexico,NM,2020,31.2
+New Mexico,NM,2021,48.4
+New Mexico,NM,2022,46.3
+New Mexico,NM,2023,47.2
+New Mexico,NM,2024,36.3
+New York,NY,2023,30.3
+New York,NY,2024,20.8
+North Carolina,NC,2020,30.2
+North Carolina,NC,2021,37.5
+North Carolina,NC,2022,39.3
+North Carolina,NC,2023,40.2
+Ohio,OH,2020,46.1
+Ohio,OH,2021,47.8
+Ohio,OH,2022,45.3
+Ohio,OH,2023,41.0
+Ohio,OH,2024,27.1
+Oklahoma,OK,2020,20.8
+Oklahoma,OK,2021,26.8
+Oklahoma,OK,2022,33.9
+Oklahoma,OK,2023,35.9
+Oklahoma,OK,2024,30.7
+Oregon,OR,2020,16.7
+Oregon,OR,2021,25.6
+Oregon,OR,2022,30.3
+Oregon,OR,2023,41.7
+Oregon,OR,2024,33.4
+Pennsylvania,PA,2020,42.0
+Pennsylvania,PA,2021,42.4
+Pennsylvania,PA,2022,40.9
+Pennsylvania,PA,2023,37.3
+Pennsylvania,PA,2024,26.0
+Rhode Island,RI,2020,37.3
+Rhode Island,RI,2021,41.1
+Rhode Island,RI,2022,39.8
+Rhode Island,RI,2023,37.7
+Rhode Island,RI,2024,30.6
+South Carolina,SC,2024,28.0
+South Dakota,SD,2020,7.8
+South Dakota,SD,2021,9.8
+South Dakota,SD,2024,8.6
+Tennessee,TN,2020,44.4
+Tennessee,TN,2022,55.5
+Tennessee,TN,2023,52.6
+Tennessee,TN,2024,35.5
+Utah,UT,2020,17.8
+Utah,UT,2021,19.0
+Utah,UT,2022,18.9
+Utah,UT,2023,21.5
+Utah,UT,2024,20.9
+Vermont,VT,2020,30.6
+Vermont,VT,2021,39.4
+Vermont,VT,2022,42.8
+Vermont,VT,2023,40.2
+Vermont,VT,2024,33.9
+Virginia,VA,2020,25.0
+Virginia,VA,2021,29.4
+Virginia,VA,2022,29.0
+Virginia,VA,2023,27.6
+Virginia,VA,2024,17.9
+Washington,WA,2023,42.3
+Washington,WA,2024,37.0
+West Virginia,WV,2020,78.5
+West Virginia,WV,2021,87.0
+West Virginia,WV,2022,82.3
+West Virginia,WV,2023,79.6
+West Virginia,WV,2024,46.3
+Wisconsin,WI,2023,28.7
+Wisconsin,WI,2024,18.1
+Wyoming,WY,2024,16.6

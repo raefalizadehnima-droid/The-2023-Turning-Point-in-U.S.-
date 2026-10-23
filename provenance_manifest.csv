@@ -1,0 +1,13 @@
+manuscript_item,content,source_files (03_Processed_Data unless noted),generating_function
+Table 1,Dataset characteristics,data_inventory.csv (07_Documentation); manuscript_table_T1.csv,ingest.build_inventory; manuscript_content.tables
+Table 2,Data quality,qc_checks.csv; dose_sys_indicator_coverage.csv,ingest.qc_checks
+"Table 3 / Fig 2a, 3","Cohort annual deaths, shares, 2023-24 change",fatal_cohort27_annual.csv; fatal_cohort27_changes.csv,analysis_fatal.cohort_annual
+Text 3.2,Single-slope trend diagnostics,fatal_trend_models.csv,analysis_fatal.trend_models
+Table 4 / Fig 4,Change points,fatal_changepoints.csv,analysis_fatal.changepoints_fatal
+Table 5,Category screening (BH),fatal_category_screening.csv,analysis_fatal.screen_categories
+Fig 2b / Text 3.5,DOSE-SYS pooled series and changes,dose_sys_pooled_monthly.csv; dose_sys_pooled_annual_means.csv; dose_sys_state_changes.csv; dose_sys_changepoints.csv,analysis_nonfatal
+Text 3.5,"DOSE-dx pooled rates, concordance",dose_dx_pooled_annual.csv; dose_sys_dx_concordance.csv,analysis_nonfatal.dx_pooled / dx_sys_concordance
+Table 6 / Fig 5,Early-warning performance,earlywarning_met.csv; earlywarning_diff.csv; earlywarning_pred.csv,earlywarning.run_earlywarning
+Text 3.6,Lead-lag correlations,earlywarning_lead_lag.csv,earlywarning.lead_lag
+Fig 6 / Text 3.7,Geographic heterogeneity,geo_state_changes.csv; geo_random_effects.csv; geo_region_summary.csv,robustness
+Table 7 / Fig 7,Composition and breakpoint sensitivity,robust_composition.csv; fatal_changepoint_sensitivity.csv; fatal_changepoint_jackknife.csv,robustness.composition_sensitivity; analysis_fatal.changepoint_sensitivity

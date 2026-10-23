@@ -1,0 +1,43 @@
+series,specification,bp_month,k_selected_by_bic
+alldrug,baseline (min segment 6),2023-04,1.0
+alldrug,min segment 9,2023-04,1.0
+alldrug,min segment 12,2023-04,1.0
+alldrug,drop final 3 months,2023-04,1.0
+alldrug,drop final 6 months,2023-03,1.0
+alldrug,series starts 2021-01 (excludes 2020),2023-07,1.0
+alldrug,Poisson deviance profile (K=1),2023-04,
+opioids,baseline (min segment 6),2023-05,1.0
+opioids,min segment 9,2023-05,1.0
+opioids,min segment 12,2023-05,1.0
+opioids,drop final 3 months,2023-06,1.0
+opioids,drop final 6 months,2023-04,1.0
+opioids,series starts 2021-01 (excludes 2020),2023-07,1.0
+opioids,Poisson deviance profile (K=1),2023-05,
+imfs,baseline (min segment 6),2023-05,1.0
+imfs,min segment 9,2023-05,1.0
+imfs,min segment 12,2023-05,1.0
+imfs,drop final 3 months,2023-05,1.0
+imfs,drop final 6 months,2023-03,1.0
+imfs,series starts 2021-01 (excludes 2020),2023-07,1.0
+imfs,Poisson deviance profile (K=1),2023-05,
+stimulant,baseline (min segment 6),2023-02,1.0
+stimulant,min segment 9,2023-02,1.0
+stimulant,min segment 12,2023-02,1.0
+stimulant,drop final 3 months,2023-03,1.0
+stimulant,drop final 6 months,2023-02,1.0
+stimulant,series starts 2021-01 (excludes 2020),2023-07,1.0
+stimulant,Poisson deviance profile (K=1),2023-03,
+meth,baseline (min segment 6),2021-08,1.0
+meth,min segment 9,2021-08,1.0
+meth,min segment 12,2021-08,1.0
+meth,drop final 3 months,2021-08,1.0
+meth,drop final 6 months,2021-07,1.0
+meth,series starts 2021-01 (excludes 2020),2023-06,1.0
+meth,Poisson deviance profile (K=1),2022-12,
+cocaine,baseline (min segment 6),2023-06,1.0
+cocaine,min segment 9,2023-06,1.0
+cocaine,min segment 12,2023-06,1.0
+cocaine,drop final 3 months,2023-07,1.0
+cocaine,drop final 6 months,2023-07,1.0
+cocaine,series starts 2021-01 (excludes 2020),2023-07,1.0
+cocaine,Poisson deviance profile (K=1),2023-07,

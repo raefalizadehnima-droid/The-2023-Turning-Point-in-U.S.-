@@ -1,0 +1,9 @@
+indicator,months_in_window,jurisdictions_with_any_value,jurisdictions_complete_all_months,share_of_jurisdiction_months_numeric
+drug,67,48,42,0.8879133743049459
+opioid,67,48,38,0.855428738659643
+fentanyl,67,44,8,0.523851331577407
+heroin,67,44,3,0.5106818846941762
+stimulant,67,45,24,0.6652033947907521
+cocaine,67,39,9,0.4351770558969857
+methamphetamine,67,43,5,0.3994732221246708
+benzodiazepine,67,44,10,0.44395668715247294

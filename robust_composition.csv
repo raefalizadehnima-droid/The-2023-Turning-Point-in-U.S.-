@@ -1,0 +1,9 @@
+definition,n_jurisdictions,deaths_2023,deaths_2024,pct_change_2023_2024
+Fixed cohort: all five years (primary),27.0,41704,31059,-25.525129483982354
+Paired: present in both 2023 and 2024,40.0,69380,51680,-25.51167483424618
+Paired excluding cohort27,13.0,27676,20621,-25.491400491400494
+Published 'Overall' rows (membership changes: 42 vs 43 jurisdictions),,75118,53336,-28.997044649751057
+Cohort27 excluding Northeast,19.0,28785,21824,-24.182734062879973
+Cohort27 excluding Midwest,22.0,34670,25980,-25.064897605999427
+Cohort27 excluding South,19.0,28349,21585,-23.85974813926417
+Cohort27 excluding West,21.0,33308,23788,-28.581722108802687

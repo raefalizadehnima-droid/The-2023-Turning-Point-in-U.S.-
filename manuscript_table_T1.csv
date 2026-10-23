@@ -1,0 +1,4 @@
+Dataset,Content and unit,Period,Jurisdictions,Level of observation
+SUDORS dashboard workbook,"Fatal overdose; jurisdiction-year with monthly counts, combinations, detected drugs",2020–2024,45 jurisdictions ever; 27 in all years,"Aggregate counts, percentages, age-adjusted rates"
+DOSE-SYS workbook (09-28-2026),"Suspected nonfatal ED overdoses per 10,000 ED visits, jurisdiction-month",Jan 2019–Jul 2026 (Mar–Aug 2020 excluded),51 listed; 48 with any numeric value after 2021,Aggregate ratios; no visit counts
+DOSE-dx workbook (08-05-2026),"Nonfatal ED and inpatient discharge counts and crude rates per 100,000",2018–2024,"29–30 ED, 34 inpatient jurisdictions",Aggregate counts; no data dictionary

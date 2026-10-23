@@ -1,0 +1,14 @@
+Check,Result
+SUDORS: duplicate jurisdiction-year keys,0
+SUDORS: monthly sums equal annual totals (all drugs; all 10 classes passed),pass
+SUDORS: recomputed cohort totals equal published totals,pass
+SUDORS: cells equal to 9999 (treated as missing),38084
+SUDORS: own xylazine share vs published percent (within 0.06 pp),0.568 (max abs diff 4.01 pp)
+DOSE-SYS: duplicate keys,0
+"DOSE-SYS: numeric values, Mar–Aug 2020",0
+"DOSE-SYS: numeric share of monthly cells, all-drug",0.814
+"DOSE-SYS: numeric share of monthly cells, fentanyl",0.446
+"DOSE-SYS: numeric share of monthly cells, methamphetamine",0.372
+DOSE-dx: duplicate keys,0
+DOSE-dx: monthly counts sum to annual,1.000
+DOSE-dx: fentanyl counts numeric / suppressed / empty,2753 / 874 / 2340

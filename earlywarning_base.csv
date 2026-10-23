@@ -1,0 +1,13 @@
+alpha,validation_mean_deviance,config
+0.0,4.625891548934792,"primary: DOSE-SYS, cohort27"
+0.01,4.626112294805764,"primary: DOSE-SYS, cohort27"
+0.1,4.628558944976427,"primary: DOSE-SYS, cohort27"
+1.0,4.656824533639142,"primary: DOSE-SYS, cohort27"
+0.0,4.128151938094271,"sens: DOSE-SYS, all available jurisdictions"
+0.01,4.127778587997482,"sens: DOSE-SYS, all available jurisdictions"
+0.1,4.127798312735909,"sens: DOSE-SYS, all available jurisdictions"
+1.0,4.145183945361692,"sens: DOSE-SYS, all available jurisdictions"
+0.0,4.042939322839607,"sens: DOSE-dx ED all-drug rate, cohort27"
+0.01,4.042648988187627,"sens: DOSE-dx ED all-drug rate, cohort27"
+0.1,4.041896607143372,"sens: DOSE-dx ED all-drug rate, cohort27"
+1.0,4.062340010784514,"sens: DOSE-dx ED all-drug rate, cohort27"

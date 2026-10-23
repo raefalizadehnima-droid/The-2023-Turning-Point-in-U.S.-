@@ -1,0 +1,4 @@
+config,scope,source,n_jurisdictions_in_fatal_panel,n_test_rows_h1_L0,n_validation_rows_h1_L0
+"primary: DOSE-SYS, cohort27",cohort27,sys,27,294,282
+"sens: DOSE-SYS, all available jurisdictions",all_available,sys,45,431,366
+"sens: DOSE-dx ED all-drug rate, cohort27",cohort27,dx,27,180,180
